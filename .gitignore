@@ -1,0 +1,21 @@
+.env
+/node_modules
+
+npm-debug.log
+.DS_Store
+/*.env
+
+/other
+/models
+s34-deploy-notes.txt
+s34-deploy-notes - Copy.txt
+requirements.txt
+0207 notes from laptop.txt
+youtube atlas with cyclic.txt
+original index.js
+raddy index to copy.js
+2607 backup index - Copy.js
+requirements.txt
+0207 notes from laptop.txt
+notes.txt
+
